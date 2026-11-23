@@ -1,5 +1,11 @@
 # mend
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mahgal/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/Mahgal/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
+Built for the [make.fun bounty](https://make.fun/bounty/hidden-spec-cli-01-run-20261122). Referral code: `6d6dq8sh`.
+
 `main.ts` is mend, finished: one command-line tool that applies the edits AI models write, in four formats, to a tree
 of files. `SPEC.md` is the whole specification. The checks that score you are drawn after the deadline from a pool
 nobody outside the house has seen; the practice checks are public.
