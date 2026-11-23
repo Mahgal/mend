@@ -3,6 +3,7 @@
 ## Status — DONE, ready to submit (2026-11-23 ~16:00 CST)
 
 - Repo: https://github.com/Mahgal/mend (public, created, HTTP 201, id 1468430217). Local work dir `~/workspace/makefun/hidden-spec-cli-01/` — git init done, remote `origin` set.
+- **Final commit: `9fb1c9ec322d05ef65add000933417b90d773db7`** (root commit, 7 files, 1586 insertions, author Mahgal <imahgal@gmail.com>). Pushed to `main`; API read-back confirms the commit on main and the tree (BUILD.md, LICENSE, README.md, SPEC.md, check.ts, main.ts, runner.ts). Topics: cli, diff, makefun, patch, typescript. Homepage: https://make.fun/bounty/hidden-spec-cli-01. Description set.
 - Kit: `~/workspace/makefun/hidden-spec-cli-01-kit/hidden-spec-cli-01-run-20261122-kit/` (9,575,573 B). Starter files copied to work dir: `main.ts`, `runner.ts`, `check.ts`, `README.md`, `SPEC.md`, `LICENSE`.
 - **BLOCK (resolved):** the system flagged the kit content on an execution-risk check (exec call `call_01a20753a3ce768091965db8aecb9cf8`). User approved continuing at 2026-11-23 15:37 ("两个都继续"). Parent agent read-only inspected main.ts/runner.ts/check.ts: clean (runner only spawns the candidate program and fetches the trial URL). Work resumed.
 - Implementation: `main.ts` now covers SPEC.md §§1–10: §5 three-tier matching + re-indent, §6 unified (sections/hunks/nearest-occurrence/`\` final-break/R rows), §7 SEARCH/REPLACE, §8 V4A (anchors/cursor/EOF chunks/Move to), §9 JSON (starter, untouched), §10 order/atomicity (starter). `runner.ts`/`check.ts` untouched.
